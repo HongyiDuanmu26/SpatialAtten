@@ -34,10 +34,17 @@ Firstly run the trainDetector.py to train the tumor cells and TILs detector. The
 
 # Reference
 @inproceedings{duanmu2021spatial,
+
   title={Spatial Attention-Based Deep Learning System for Breast Cancer Pathological Complete Response Prediction with Serial Histopathology Images in Multiple Stains},
+  
   author={Duanmu, Hongyi and Bhattarai, Shristi and Li, Hongxiao and Cheng, Chia Cheng and Wang, Fusheng and Teodoro, George and Janssen, Emiel AM and Gogineni, Keerthi and Subhedar, Preeti and Aneja, Ritu and others},
+  
   booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  
   pages={550--560},
+  
   year={2021},
+  
   organization={Springer}
+  
 }

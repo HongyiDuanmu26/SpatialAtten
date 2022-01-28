@@ -32,6 +32,8 @@ SpatialAtten
 
 Firstly run the trainDetector.py to train the tumor cells and TILs detector. Then run trainPredictor.py to train the PCR predictor.
 
+The YOLOv4 part is referred from https://github.com/taipingeric/yolo-v4-tf.keras.git
+
 # Reference
 @inproceedings{duanmu2021spatial,\
   title={Spatial Attention-Based Deep Learning System for Breast Cancer Pathological Complete Response Prediction with Serial Histopathology Images in Multiple Stains},\
